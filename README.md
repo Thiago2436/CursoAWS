@@ -1,18 +1,20 @@
 # CursoAWS
 Design Instrucional do Curso por modulos 
-Course Description
+<br>
+# Course Description
 Este curso destina-se a indivíduos que buscam uma compreensão geral sobre a nuvem Amazon Web Services (AWS), independentemente de funções técnicas específicas. Você aprenderá os conceitos da nuvem AWS, serviços AWS, segurança, arquitetura, definição de preço e suporte para desenvolver seu conhecimento sobre a nuvem AWS. Este curso ajudará você a se preparar para o exame AWS Certified Cloud Practitioner.
-
-Nível do curso: fundamental
+<br>
+# Nível do curso: fundamental
 Duração: 6 horas
+<br>
 
-
-Atividades
+# Atividades
 Este curso tem apresentações em vídeo, demonstrações, links para recursos e testes de conhecimento. 
+<br>
 
 
-
-Objetivos do curso
+# Objetivos do curso
+<br>
 Neste curso, você aprenderá a:
 Resumir a definição de trabalho da AWS
 Identificar a diferença entre armazenamento local, híbrido e na nuvem
@@ -29,7 +31,8 @@ Definir os principais modelos de cobrança, gerenciamento de conta e preço
 Explicar como usar ferramentas de definição de preço para escolher serviços AWS de forma econômica
 
 
-Público-alvo
+# Público-alvo
+<br>
 Este curso destina-se a:
 
 Pessoal de vendas
@@ -41,20 +44,21 @@ Alunos da AWS Academy
 Outros profissionais relacionados a TI
 
 
-Pré-requisitos
+# Pré-requisitos
 Recomendamos que os participantes deste curso tenham:
 
 Conhecimento geral de negócios de TI
 Conhecimento técnico geral de TI
 
 
-Descrição do curso
-Módulo 1: Introdução à Amazon Web Services
+# Descrição do curso
+# Módulo 1: Introdução à Amazon Web Services
 
 Resume os benefícios da AWS 
 Descreve as diferenças entre entrega sob demanda e implantações na nuvem
 Resume o modelo de pagamento conforme o uso
-Módulo 2: Computação na nuvem
+<br>
+# Módulo 2: Computação na nuvem
 
 Descreve os benefícios do Amazon Elastic Compute Cloud (Amazon EC2) em um nível básico
 Identifica os diferentes tipos de instância do Amazon EC2
@@ -64,7 +68,9 @@ Resume os benefícios do Elastic Load Balancing
 Exemplo de como usar o Elastic Load Balancing
 Resume as diferenças entre o Amazon Simple Notification Service (Amazon SNS) e o Amazon Simple Queue Services (Amazon SQS)
 Resume outras opções de computação da AWS
-Módulo 3: Infraestrutura global e confiabilidade
+
+# Módulo 3: Infraestrutura global e confiabilidade
+<br>
 
 Resume os benefícios da infraestrutura global da AWS
 Descreve o conceito básico de Zonas de Disponibilidade
